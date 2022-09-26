@@ -8,7 +8,7 @@
     "integra credit",
     "integracredit.com"
   ],
-  "repository": "https://github.com/atom/integra-credit",
+  "repository": "https://github.com/pdlonline/integra-credit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
